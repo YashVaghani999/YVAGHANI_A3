@@ -16,11 +16,11 @@ export async function getStaticProps() {
 export default function About(props) {
   return (
     <>
-      <PageHeader text="About the Developer: Riddhi B. Patel"></PageHeader>
+      <PageHeader text="About the Developer: Yash Vaghani"></PageHeader>
       <Card>
         <Card.Body>
           <p>
-            Currently in 5th semester of Computer Programming and Analysis at
+            In 5th semester of CPA at
             Seneca College
           </p>
           <p>
